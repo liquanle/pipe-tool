@@ -5,7 +5,7 @@ using System.Text;
 using System.Collections;
 
 namespace DataClient
-{
+{//goodluck
     public enum FieldType { ft_String, ft_Decimal, ft_Integer, ft_Date };
 
     public struct FieldStruct{
