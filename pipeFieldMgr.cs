@@ -6,6 +6,7 @@ using System.Collections;
 
 namespace DataClient
 {//goodluck
+    //我又改了
     public enum FieldType { ft_String, ft_Decimal, ft_Integer, ft_Date };
 
     public struct FieldStruct{
