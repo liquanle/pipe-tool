@@ -40,6 +40,11 @@ namespace DataClient
         {
 
         }
+
+        public void byebye()
+        {
+
+        }
     }
 
 
