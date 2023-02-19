@@ -36,4 +36,9 @@ namespace DataClient
     {
 
     }
+
+    public class fish
+    {
+
+    }
 }
