@@ -26,9 +26,16 @@ namespace DataClient
     class goodluck
     {
 
-    public goodluck()
+        public goodluck()
+        {
+
+        }
+
+        public void goodluck1
         {
 
         }
     }
+
+
 }
