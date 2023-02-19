@@ -20,4 +20,30 @@ namespace DataClient
     //the fourth oper
 
     //the sixth oper
+
+    //the seventh oper
+
+    class goodluck
+    {
+
+        public goodluck()
+        {
+
+        }
+
+        public void goodluck1()
+        {
+
+        }
+
+        public void loveyou()
+        {
+
+        }
+
+        public void byebye()
+        {
+
+        }
+    }
 }
