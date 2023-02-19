@@ -9,11 +9,16 @@ namespace DataClient
     {
         string m_name;
         string m_mark;
+        string m_class;
 
         public void setUserInfo(string name, string mark)
         {
             m_name = name;
             m_mark = mark;
+        }
+
+        public void Addclass(string clsname){
+            m_class = clsname;
         }
     }
 }
