@@ -22,6 +22,7 @@ namespace DataClient
     //the sixth oper
 
     //the seventh oper
+<<<<<<< HEAD
 
     class goodluck
     {
@@ -48,4 +49,6 @@ namespace DataClient
     }
 
 
+=======
+>>>>>>> 83be9bc (the seventh method)
 }
