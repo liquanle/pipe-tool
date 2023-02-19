@@ -79,6 +79,7 @@
     </Compile>
     <Compile Include="MdbHelper.cs" />
     <Compile Include="mine1.cs" />
+    <Compile Include="nouser.cs" />
     <Compile Include="pipeFieldMgr.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
