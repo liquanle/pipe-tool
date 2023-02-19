@@ -22,4 +22,13 @@ namespace DataClient
     //the sixth oper
 
     //the seventh oper
+
+    class goodluck
+    {
+
+    public goodluck()
+        {
+
+        }
+    }
 }
