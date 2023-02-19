@@ -31,7 +31,7 @@ namespace DataClient
 
         }
 
-        public void goodluck1
+        public void goodluck1()
         {
 
         }
