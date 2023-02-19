@@ -27,4 +27,13 @@ namespace DataClient
             return strRet;
         }
     }
+
+    public class dog{
+
+    }
+
+    public class cat
+    {
+
+    }
 }
