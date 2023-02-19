@@ -7,7 +7,13 @@ namespace DataClient
 {
     internal class mine1
     {
-        string name;
-        string mark;
+        string m_name;
+        string m_mark;
+
+        public void setUserInfo(string name, string mark)
+        {
+            m_name = name;
+            m_mark = mark;
+        }
     }
 }
