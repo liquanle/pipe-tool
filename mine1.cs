@@ -7,5 +7,7 @@ namespace DataClient
 {
     internal class mine1
     {
+        string name;
+        string mark;
     }
 }
