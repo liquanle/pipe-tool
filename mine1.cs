@@ -20,5 +20,11 @@ namespace DataClient
         public void Addclass(string clsname){
             m_class = clsname;
         }
+
+        public string getInfo()
+        {
+            string strRet = string.Format("myname is {0}, mark is {1} in class{2}", m_name, m_mark, m_class);
+            return strRet;
+        }
     }
 }
